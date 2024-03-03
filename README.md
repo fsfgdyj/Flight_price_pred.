@@ -24,6 +24,20 @@ https://user-images.githubusercontent.com/68873733/137396490-c72e4f89-441e-430a-
 
 ![image](https://github.com/jayd-bit/Flight_price_pred./assets/132098211/cac36134-4406-4323-8322-57a3861bf205)
 
+Analysis and Results
+The project notebook can be found here.
+Selected features are:
+Source (4 Sources were selected for this project)
+Destination (4 Destinations were selected for this project)
+Total Stops
+Average Price per Airline
+Duration
+Price (Target)
+Correlation of features:
+
+![Uploading image.png…]()
+
+
 Presentation
 The presentation can be found here.
 Mobile App
