@@ -17,3 +17,16 @@ The Kayak Scraper Notebook can be found here.
 Here's a demo of the scraper in action (played at 2x speed):
 
 https://user-images.githubusercontent.com/68873733/137405620-e8af4863-4359-4799-b518-7f1605ceb2a2.gif
+
+https://user-images.githubusercontent.com/68873733/137396490-c72e4f89-441e-430a-b4a9-831081ff6375.png
+
+![image](https://github.com/jayd-bit/Flight_price_pred./assets/132098211/cb2cbe17-1316-4c0c-8edf-f8e94fbbd582)
+
+![image](https://github.com/jayd-bit/Flight_price_pred./assets/132098211/cac36134-4406-4323-8322-57a3861bf205)
+
+Presentation
+The presentation can be found here.
+Mobile App
+We've also developed an app on Android that finds the average estimated prices for a selected route and month based on our scraped data.
+
+
