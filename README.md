@@ -2,6 +2,8 @@ Flight Price Prediction is a rapidly growing application of machine learning tha
 
 Table of Contents Proposal MVP Scraping Analysis and Results Presentation Mobile App Authors Project Proposal The project proposal can be found here. Project MVP The project MVP can be found here. Scraping The Kayak Scraper Notebook can be found here. Here's a demo of the scraper in action (played at 2x speed):
 
+Table of Contents Proposal MVP Scraping Analysis and Results Presentation Mobile App Authors Project Proposal The project proposal can be found here. Project MVP The project MVP can be found here. Scraping The Kayak Scraper Notebook can be found here. Here's a demo of the scraper in action (played at 2x speed):
+
 Table of Contents
 Proposal
 MVP
