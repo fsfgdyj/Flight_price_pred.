@@ -1,0 +1,20 @@
+Proposal
+The initial proposal outlines the motivation and objectives of the project, emphasizing the significance of flight price prediction using machine learning. It highlights the benefits for travelers in making informed decisions and planning their travel budgets. The use of Flask, a Python web framework, is proposed for building a user-friendly interface.
+
+MVP (Minimum Viable Product)
+The MVP section provides an overview of the Minimum Viable Product, showcasing the core functionality of the flight price prediction application. This includes the integration of machine learning models, input mechanisms for travel details, and the generation of accurate price predictions. The MVP serves as a foundational version of the application.
+
+Scraping
+The scraping section introduces the Kayak Scraper Notebook, indicating the use of web scraping techniques to gather data for training machine learning models. A demo of the scraper in action is presented, emphasizing its role in collecting relevant data from the web.
+
+Analysis and Results
+This section likely delves into the analysis of the scraped data, preprocessing steps, and the performance evaluation of the machine learning models. It provides insights into the factors influencing flight prices and the effectiveness of the predictive models.
+
+Presentation
+The presentation section may include visualizations, charts, or graphs to communicate the findings effectively. It serves as a means to present the results of the analysis and the capabilities of the flight price prediction models.
+
+Mobile App
+The mention of a mobile app suggests an extension of the project to a mobile platform. Details about the development of a mobile application using Flask or another framework may be provided, highlighting the potential for users to access the flight price prediction tool on the go.
+
+Authors
+The authors' section likely lists the individuals or contributors involved in the project. It acknowledges the collaborative effort in developing the flight price prediction application.
